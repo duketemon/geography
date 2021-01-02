@@ -116,7 +116,6 @@ Antigua and Barbuda;98000;world/ag.EXTENSION
 Aruba;107000;world/aw.EXTENSION
 Bahamas;393000;world/bs.EXTENSION
 Barbados;287000;world/bb.EXTENSION
-Caribbean Netherlands;26000;world/nl.EXTENSION
 British Virgin Islands;30000;world/vg.EXTENSION
 Cayman Islands;66000;world/ky.EXTENSION
 Cuba;11327000;world/cu.EXTENSION
@@ -249,3 +248,6 @@ Canada;37742000;world/ca.EXTENSION
 Greenland;57000;world/gl.EXTENSION
 Saint Pierre and Miquelon;6000;world/fr.EXTENSION
 United States of America;331003000;world/us.EXTENSION
+Bonaire;20104;world/Flag_of_Bonaire.EXTENSION
+Sint Eustatius;3138;world/Flag_of_Sint_Eustatius.EXTENSION
+Saba;1915;world/Flag_of_Saba.EXTENSION
