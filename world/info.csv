@@ -1,253 +1,253 @@
-Name;Population;Flag Path
-Burundi;11891000;world/bi.EXTENSION
-Comoros;870000;world/km.EXTENSION
-Djibouti;988000;world/dj.EXTENSION
-Eritrea;3546000;world/er.EXTENSION
-Ethiopia;114964000;world/et.EXTENSION
-Kenya;53771000;world/ke.EXTENSION
-Madagascar;27691000;world/mg.EXTENSION
-French Southern Territories;400;world/tf.EXTENSION
-Malawi;19130000;world/mw.EXTENSION
-Mauritius;1272000;world/mu.EXTENSION
-Mayotte;273000;world/fr.EXTENSION
-Mozambique;31255000;world/mz.EXTENSION
-Réunion;895000;world/fr.EXTENSION
-Rwanda;12952000;world/rw.EXTENSION
-Seychelles;98000;world/sc.EXTENSION
-Somalia;15893000;world/so.EXTENSION
-South Sudan;11194000;world/ss.EXTENSION
-Uganda;45741000;world/ug.EXTENSION
-Tanzania;59734000;world/tz.EXTENSION
-Zambia;18384000;world/zm.EXTENSION
-Zimbabwe;14863000;world/zw.EXTENSION
-Angola;32866000;world/ao.EXTENSION
-Cameroon;26546000;world/cm.EXTENSION
-Central African Republic;4830000;world/cf.EXTENSION
-Chad;16426000;world/td.EXTENSION
-Congo;5518000;world/cg.EXTENSION
-Democratic Republic of the Congo;89561000;world/cd.EXTENSION
-Equatorial Guinea;1403000;world/gq.EXTENSION
-Gabon;2226000;world/ga.EXTENSION
-Sao Tome and Principe;219000;world/st.EXTENSION
-Botswana;2352000;world/bw.EXTENSION
-Eswatini;1160000;world/sz.EXTENSION
-Lesotho;2142000;world/ls.EXTENSION
-Namibia;2541000;world/na.EXTENSION
-South Africa;59309000;world/za.EXTENSION
-Benin;12123000;world/bj.EXTENSION
-Burkina Faso;20903000;world/bf.EXTENSION
-Cabo Verde;556000;world/cv.EXTENSION
-Côte d'Ivoire;26378000;world/ci.EXTENSION
-Gambia;2417000;world/gm.EXTENSION
-Ghana;31073000;world/gh.EXTENSION
-Guinea;13133000;world/gn.EXTENSION
-Guinea-Bissau;1968000;world/gw.EXTENSION
-Liberia;5058000;world/lr.EXTENSION
-Mali;20251000;world/ml.EXTENSION
-Mauritania;4650000;world/mr.EXTENSION
-Niger;24207000;world/ne.EXTENSION
-Nigeria;206140000;world/ng.EXTENSION
-Saint Helena;6000;world/gb.EXTENSION
-Senegal;16744000;world/sn.EXTENSION
-Sierra Leone;7977000;world/sl.EXTENSION
-Togo;8279000;world/tg.EXTENSION
-Algeria;43851000;world/dz.EXTENSION
-Egypt;102334000;world/eg.EXTENSION
-Libya;6871000;world/ly.EXTENSION
-Morocco;36911000;world/ma.EXTENSION
-Sudan;43849000;world/sd.EXTENSION
-Tunisia;11819000;world/tn.EXTENSION
-Western Sahara;597000;world/eh.EXTENSION
-Armenia;2963000;world/am.EXTENSION
-Azerbaijan;10139000;world/az.EXTENSION
-Bahrain;1702000;world/bh.EXTENSION
-Cyprus;1207000;world/cy.EXTENSION
-Georgia;3989000;world/ge.EXTENSION
-Iraq;40223000;world/iq.EXTENSION
-Israel;8656000;world/il.EXTENSION
-Jordan;10203000;world/jo.EXTENSION
-Kuwait;4271000;world/kw.EXTENSION
-Lebanon;6825000;world/lb.EXTENSION
-Oman;5107000;world/om.EXTENSION
-Qatar;2881000;world/qa.EXTENSION
-Saudi Arabia;34814000;world/sa.EXTENSION
-Palestine;5101000;world/ps.EXTENSION
-Syrian Arab Republic;17501000;world/sy.EXTENSION
-Turkey;84339000;world/tr.EXTENSION
-United Arab Emirates;9890000;world/ae.EXTENSION
-Yemen;29826000;world/ye.EXTENSION
-Kazakhstan;18777000;world/kz.EXTENSION
-Kyrgyzstan;6524000;world/kg.EXTENSION
-Tajikistan;9538000;world/tj.EXTENSION
-Turkmenistan;6031000;world/tm.EXTENSION
-Uzbekistan;33469000;world/uz.EXTENSION
-Afghanistan;38928000;world/af.EXTENSION
-Bangladesh;164689000;world/bd.EXTENSION
-Bhutan;772000;world/bt.EXTENSION
-India;1380004000;world/in.EXTENSION
-British Indian Ocean Territory;3000;world/io.EXTENSION
-Iran;83993000;world/ir.EXTENSION
-Maldives;541000;world/mv.EXTENSION
-Nepal;29137000;world/np.EXTENSION
-Pakistan;220892000;world/pk.EXTENSION
-Sri Lanka;21413000;world/lk.EXTENSION
-China;1439324000;world/cn.EXTENSION
-Hong Kong;7497000;world/hk.EXTENSION
-Macao;649000;world/mo.EXTENSION
-Taiwan;23817000;world/tw.EXTENSION
-North Korea;25779000;world/kp.EXTENSION
-Japan;126476000;world/jp.EXTENSION
-Mongolia;3278000;world/mn.EXTENSION
-South Korea;51269000;world/kr.EXTENSION
-Brunei Darussalam;437000;world/bn.EXTENSION
-Cambodia;16719000;world/kh.EXTENSION
-Indonesia;273524000;world/id.EXTENSION
-Cocos (Keeling) Islands;544;world/cc.EXTENSION
-Laos;7276000;world/la.EXTENSION
-Malaysia;32366000;world/my.EXTENSION
-Myanmar;54410000;world/mm.EXTENSION
-Philippines;109581000;world/ph.EXTENSION
-Singapore;5850000;world/sg.EXTENSION
-Thailand;69800000;world/th.EXTENSION
-Timor-Leste;1318000;world/tl.EXTENSION
-Viet Nam;97339000;world/vn.EXTENSION
-Anguilla;15000;world/ai.EXTENSION
-Antigua and Barbuda;98000;world/ag.EXTENSION
-Aruba;107000;world/aw.EXTENSION
-Bahamas;393000;world/bs.EXTENSION
-Barbados;287000;world/bb.EXTENSION
-British Virgin Islands;30000;world/vg.EXTENSION
-Cayman Islands;66000;world/ky.EXTENSION
-Cuba;11327000;world/cu.EXTENSION
-Curaçao;164000;world/cw.EXTENSION
-Dominica;72000;world/dm.EXTENSION
-Dominican Republic;10848000;world/do.EXTENSION
-Grenada;113000;world/gd.EXTENSION
-Guadeloupe;400000;world/fr.EXTENSION
-Haiti;11403000;world/ht.EXTENSION
-Jamaica;2961000;world/jm.EXTENSION
-Martinique;375000;world/fr.EXTENSION
-Montserrat;5000;world/ms.EXTENSION
-Puerto Rico;2861000;world/pr.EXTENSION
-Saint Barthélemy;10000;world/bl.EXTENSION
-Saint Kitts and Nevis;53000;world/kn.EXTENSION
-Saint Lucia;184000;world/lc.EXTENSION
-Saint Martin;39000;world/fr.EXTENSION
-Saint Vincent and the Grenadines;111000;world/vc.EXTENSION
-Sint Maarten;43000;world/sx.EXTENSION
-Trinidad and Tobago;1399000;world/tt.EXTENSION
-Turks and Caicos Islands;39000;world/tc.EXTENSION
-United States Virgin Islands;104000;world/vi.EXTENSION
-Belize;398000;world/bz.EXTENSION
-Costa Rica;5094000;world/cr.EXTENSION
-El Salvador;6486000;world/sv.EXTENSION
-Guatemala;17916000;world/gt.EXTENSION
-Honduras;9905000;world/hn.EXTENSION
-Mexico;128933000;world/mx.EXTENSION
-Nicaragua;6625000;world/ni.EXTENSION
-Panama;4315000;world/pa.EXTENSION
-Argentina;45196000;world/ar.EXTENSION
-South Georgia and the South Sandwich Islands;30;world/gs.EXTENSION
-Bolivia;11673000;world/bo.EXTENSION
-Brazil;212559000;world/br.EXTENSION
-Chile;19116000;world/cl.EXTENSION
-Colombia;50883000;world/co.EXTENSION
-Ecuador;17643000;world/ec.EXTENSION
-Falkland Islands (Malvinas);3000;world/fk.EXTENSION
-French Guiana;299000;world/fr.EXTENSION
-Guyana;787000;world/gy.EXTENSION
-Paraguay;7133000;world/py.EXTENSION
-Peru;32972000;world/pe.EXTENSION
-Suriname;587000;world/sr.EXTENSION
-Uruguay;3474000;world/uy.EXTENSION
-Venezuela;28436000;world/ve.EXTENSION
-Netherlands Antilles;304759;world/an.EXTENSION
-Australia;25500000;world/au.EXTENSION
-Christmas Island;1843;world/cx.EXTENSION
-Norfolk Island;1748;world/nf.EXTENSION
-New Zealand;4822000;world/nz.EXTENSION
-Fiji;896000;world/fj.EXTENSION
-New Caledonia;285000;world/nc.EXTENSION
-Papua New Guinea;8947000;world/pg.EXTENSION
-Solomon Islands;687000;world/sb.EXTENSION
-Vanuatu;307000;world/vu.EXTENSION
-Guam;169000;world/gu.EXTENSION
-Kiribati;119000;world/ki.EXTENSION
-Marshall Islands;59000;world/mh.EXTENSION
-Federated States of Micronesia;115000;world/fm.EXTENSION
-Nauru;11000;world/nr.EXTENSION
-Northern Mariana Islands;58000;world/mp.EXTENSION
-Palau;18000;world/pw.EXTENSION
-American Samoa;55000;world/as.EXTENSION
-Cook Islands;18000;world/ck.EXTENSION
-French Polynesia;281000;world/pf.EXTENSION
-Pitcairn Islands;67;world/pn.EXTENSION
-Niue;2000;world/nu.EXTENSION
-Samoa;198000;world/ws.EXTENSION
-Tokelau;1000;world/tk.EXTENSION
-Tonga;106000;world/to.EXTENSION
-Tuvalu;12000;world/tv.EXTENSION
-Wallis and Futuna Islands;11000;world/wf.EXTENSION
-Belarus;9449000;world/by.EXTENSION
-Bulgaria;6948000;world/bg.EXTENSION
-Czech Republic;10709000;world/cz.EXTENSION
-Hungary;9660000;world/hu.EXTENSION
-Poland;37847000;world/pl.EXTENSION
-Moldova;4034000;world/md.EXTENSION
-Romania;19238000;world/ro.EXTENSION
-Russian Federation;145934000;world/ru.EXTENSION
-Slovakia;5460000;world/sk.EXTENSION
-Ukraine;43734000;world/ua.EXTENSION
-Denmark;5792000;world/dk.EXTENSION
-Estonia;1327000;world/ee.EXTENSION
-Faroe Islands;49000;world/fo.EXTENSION
-Finland;5541000;world/fi.EXTENSION
-Åland Islands;29884;world/ax.EXTENSION
-Iceland;341000;world/is.EXTENSION
-Ireland;4938000;world/ie.EXTENSION
-Isle of Man;85000;world/im.EXTENSION
-Latvia;1886000;world/lv.EXTENSION
-Lithuania;2722000;world/lt.EXTENSION
-Norway;5421000;world/no.EXTENSION
-Sweden;10099000;world/se.EXTENSION
-United Kingdom;67886000;world/gb.EXTENSION
-England;56286961;world/gb-eng.EXTENSION
-Wales;3152879;world/gb-wls.EXTENSION
-Scotland;5463300;world/gb-sct.EXTENSION
-Northern Ireland;1893700;world/gb.EXTENSION
-Albania;2878000;world/al.EXTENSION
-Andorra;77000;world/ad.EXTENSION
-Bosnia and Herzegovina;3281000;world/ba.EXTENSION
-Croatia;4105000;world/hr.EXTENSION
-Gibraltar;34000;world/gi.EXTENSION
-Greece;10423000;world/gr.EXTENSION
-Vatican;1000;world/va.EXTENSION
-Italy;60462000;world/it.EXTENSION
-Malta;442000;world/mt.EXTENSION
-Montenegro;628000;world/me.EXTENSION
-North Macedonia;2083000;world/mk.EXTENSION
-Portugal;10197000;world/pt.EXTENSION
-Kosovo;1873160;world/xk.EXTENSION
-San Marino;34000;world/sm.EXTENSION
-Serbia;8737000;world/rs.EXTENSION
-Slovenia;2079000;world/si.EXTENSION
-Spain;46755000;world/es.EXTENSION
-Austria;9006000;world/at.EXTENSION
-Belgium;11590000;world/be.EXTENSION
-France;65274000;world/fr.EXTENSION
-Germany;83784000;world/de.EXTENSION
-Liechtenstein;38000;world/li.EXTENSION
-Luxembourg;626000;world/lu.EXTENSION
-Monaco;39000;world/mc.EXTENSION
-Netherlands;17135000;world/nl.EXTENSION
-Switzerland;8655000;world/ch.EXTENSION
-Jersey;107800;world/je.EXTENSION
-Guernsey;62792;world/gg.EXTENSION
-Bermuda;62000;world/bm.EXTENSION
-Canada;37742000;world/ca.EXTENSION
-Greenland;57000;world/gl.EXTENSION
-Saint Pierre and Miquelon;6000;world/fr.EXTENSION
-United States of America;331003000;world/us.EXTENSION
-Bonaire;20104;world/Flag_of_Bonaire.EXTENSION
-Sint Eustatius;3138;world/Flag_of_Sint_Eustatius.EXTENSION
-Saba;1915;world/Flag_of_Saba.EXTENSION
+Name,Population,Flag Path
+Burundi,11891000,world/bi.EXTENSION
+Comoros,870000,world/km.EXTENSION
+Djibouti,988000,world/dj.EXTENSION
+Eritrea,3546000,world/er.EXTENSION
+Ethiopia,114964000,world/et.EXTENSION
+Kenya,53771000,world/ke.EXTENSION
+Madagascar,27691000,world/mg.EXTENSION
+French Southern Territories,400,world/tf.EXTENSION
+Malawi,19130000,world/mw.EXTENSION
+Mauritius,1272000,world/mu.EXTENSION
+Mayotte,273000,world/fr.EXTENSION
+Mozambique,31255000,world/mz.EXTENSION
+Réunion,895000,world/fr.EXTENSION
+Rwanda,12952000,world/rw.EXTENSION
+Seychelles,98000,world/sc.EXTENSION
+Somalia,15893000,world/so.EXTENSION
+South Sudan,11194000,world/ss.EXTENSION
+Uganda,45741000,world/ug.EXTENSION
+Tanzania,59734000,world/tz.EXTENSION
+Zambia,18384000,world/zm.EXTENSION
+Zimbabwe,14863000,world/zw.EXTENSION
+Angola,32866000,world/ao.EXTENSION
+Cameroon,26546000,world/cm.EXTENSION
+Central African Republic,4830000,world/cf.EXTENSION
+Chad,16426000,world/td.EXTENSION
+Congo,5518000,world/cg.EXTENSION
+Democratic Republic of the Congo,89561000,world/cd.EXTENSION
+Equatorial Guinea,1403000,world/gq.EXTENSION
+Gabon,2226000,world/ga.EXTENSION
+Sao Tome and Principe,219000,world/st.EXTENSION
+Botswana,2352000,world/bw.EXTENSION
+Eswatini,1160000,world/sz.EXTENSION
+Lesotho,2142000,world/ls.EXTENSION
+Namibia,2541000,world/na.EXTENSION
+South Africa,59309000,world/za.EXTENSION
+Benin,12123000,world/bj.EXTENSION
+Burkina Faso,20903000,world/bf.EXTENSION
+Cabo Verde,556000,world/cv.EXTENSION
+Côte d'Ivoire,26378000,world/ci.EXTENSION
+Gambia,2417000,world/gm.EXTENSION
+Ghana,31073000,world/gh.EXTENSION
+Guinea,13133000,world/gn.EXTENSION
+Guinea-Bissau,1968000,world/gw.EXTENSION
+Liberia,5058000,world/lr.EXTENSION
+Mali,20251000,world/ml.EXTENSION
+Mauritania,4650000,world/mr.EXTENSION
+Niger,24207000,world/ne.EXTENSION
+Nigeria,206140000,world/ng.EXTENSION
+Saint Helena,6000,world/gb.EXTENSION
+Senegal,16744000,world/sn.EXTENSION
+Sierra Leone,7977000,world/sl.EXTENSION
+Togo,8279000,world/tg.EXTENSION
+Algeria,43851000,world/dz.EXTENSION
+Egypt,102334000,world/eg.EXTENSION
+Libya,6871000,world/ly.EXTENSION
+Morocco,36911000,world/ma.EXTENSION
+Sudan,43849000,world/sd.EXTENSION
+Tunisia,11819000,world/tn.EXTENSION
+Western Sahara,597000,world/eh.EXTENSION
+Armenia,2963000,world/am.EXTENSION
+Azerbaijan,10139000,world/az.EXTENSION
+Bahrain,1702000,world/bh.EXTENSION
+Cyprus,1207000,world/cy.EXTENSION
+Georgia,3989000,world/ge.EXTENSION
+Iraq,40223000,world/iq.EXTENSION
+Israel,8656000,world/il.EXTENSION
+Jordan,10203000,world/jo.EXTENSION
+Kuwait,4271000,world/kw.EXTENSION
+Lebanon,6825000,world/lb.EXTENSION
+Oman,5107000,world/om.EXTENSION
+Qatar,2881000,world/qa.EXTENSION
+Saudi Arabia,34814000,world/sa.EXTENSION
+Palestine,5101000,world/ps.EXTENSION
+Syrian Arab Republic,17501000,world/sy.EXTENSION
+Turkey,84339000,world/tr.EXTENSION
+United Arab Emirates,9890000,world/ae.EXTENSION
+Yemen,29826000,world/ye.EXTENSION
+Kazakhstan,18777000,world/kz.EXTENSION
+Kyrgyzstan,6524000,world/kg.EXTENSION
+Tajikistan,9538000,world/tj.EXTENSION
+Turkmenistan,6031000,world/tm.EXTENSION
+Uzbekistan,33469000,world/uz.EXTENSION
+Afghanistan,38928000,world/af.EXTENSION
+Bangladesh,164689000,world/bd.EXTENSION
+Bhutan,772000,world/bt.EXTENSION
+India,1380004000,world/in.EXTENSION
+British Indian Ocean Territory,3000,world/io.EXTENSION
+Iran,83993000,world/ir.EXTENSION
+Maldives,541000,world/mv.EXTENSION
+Nepal,29137000,world/np.EXTENSION
+Pakistan,220892000,world/pk.EXTENSION
+Sri Lanka,21413000,world/lk.EXTENSION
+China,1439324000,world/cn.EXTENSION
+Hong Kong,7497000,world/hk.EXTENSION
+Macao,649000,world/mo.EXTENSION
+Taiwan,23817000,world/tw.EXTENSION
+North Korea,25779000,world/kp.EXTENSION
+Japan,126476000,world/jp.EXTENSION
+Mongolia,3278000,world/mn.EXTENSION
+South Korea,51269000,world/kr.EXTENSION
+Brunei Darussalam,437000,world/bn.EXTENSION
+Cambodia,16719000,world/kh.EXTENSION
+Indonesia,273524000,world/id.EXTENSION
+Cocos (Keeling) Islands,544,world/cc.EXTENSION
+Laos,7276000,world/la.EXTENSION
+Malaysia,32366000,world/my.EXTENSION
+Myanmar,54410000,world/mm.EXTENSION
+Philippines,109581000,world/ph.EXTENSION
+Singapore,5850000,world/sg.EXTENSION
+Thailand,69800000,world/th.EXTENSION
+Timor-Leste,1318000,world/tl.EXTENSION
+Viet Nam,97339000,world/vn.EXTENSION
+Anguilla,15000,world/ai.EXTENSION
+Antigua and Barbuda,98000,world/ag.EXTENSION
+Aruba,107000,world/aw.EXTENSION
+Bahamas,393000,world/bs.EXTENSION
+Barbados,287000,world/bb.EXTENSION
+British Virgin Islands,30000,world/vg.EXTENSION
+Cayman Islands,66000,world/ky.EXTENSION
+Cuba,11327000,world/cu.EXTENSION
+Curaçao,164000,world/cw.EXTENSION
+Dominica,72000,world/dm.EXTENSION
+Dominican Republic,10848000,world/do.EXTENSION
+Grenada,113000,world/gd.EXTENSION
+Guadeloupe,400000,world/fr.EXTENSION
+Haiti,11403000,world/ht.EXTENSION
+Jamaica,2961000,world/jm.EXTENSION
+Martinique,375000,world/fr.EXTENSION
+Montserrat,5000,world/ms.EXTENSION
+Puerto Rico,2861000,world/pr.EXTENSION
+Saint Barthélemy,10000,world/bl.EXTENSION
+Saint Kitts and Nevis,53000,world/kn.EXTENSION
+Saint Lucia,184000,world/lc.EXTENSION
+Saint Martin,39000,world/fr.EXTENSION
+Saint Vincent and the Grenadines,111000,world/vc.EXTENSION
+Sint Maarten,43000,world/sx.EXTENSION
+Trinidad and Tobago,1399000,world/tt.EXTENSION
+Turks and Caicos Islands,39000,world/tc.EXTENSION
+United States Virgin Islands,104000,world/vi.EXTENSION
+Belize,398000,world/bz.EXTENSION
+Costa Rica,5094000,world/cr.EXTENSION
+El Salvador,6486000,world/sv.EXTENSION
+Guatemala,17916000,world/gt.EXTENSION
+Honduras,9905000,world/hn.EXTENSION
+Mexico,128933000,world/mx.EXTENSION
+Nicaragua,6625000,world/ni.EXTENSION
+Panama,4315000,world/pa.EXTENSION
+Argentina,45196000,world/ar.EXTENSION
+South Georgia and the South Sandwich Islands,30,world/gs.EXTENSION
+Bolivia,11673000,world/bo.EXTENSION
+Brazil,212559000,world/br.EXTENSION
+Chile,19116000,world/cl.EXTENSION
+Colombia,50883000,world/co.EXTENSION
+Ecuador,17643000,world/ec.EXTENSION
+Falkland Islands (Malvinas),3000,world/fk.EXTENSION
+French Guiana,299000,world/fr.EXTENSION
+Guyana,787000,world/gy.EXTENSION
+Paraguay,7133000,world/py.EXTENSION
+Peru,32972000,world/pe.EXTENSION
+Suriname,587000,world/sr.EXTENSION
+Uruguay,3474000,world/uy.EXTENSION
+Venezuela,28436000,world/ve.EXTENSION
+Netherlands Antilles,304759,world/an.EXTENSION
+Australia,25500000,world/au.EXTENSION
+Christmas Island,1843,world/cx.EXTENSION
+Norfolk Island,1748,world/nf.EXTENSION
+New Zealand,4822000,world/nz.EXTENSION
+Fiji,896000,world/fj.EXTENSION
+New Caledonia,285000,world/nc.EXTENSION
+Papua New Guinea,8947000,world/pg.EXTENSION
+Solomon Islands,687000,world/sb.EXTENSION
+Vanuatu,307000,world/vu.EXTENSION
+Guam,169000,world/gu.EXTENSION
+Kiribati,119000,world/ki.EXTENSION
+Marshall Islands,59000,world/mh.EXTENSION
+Federated States of Micronesia,115000,world/fm.EXTENSION
+Nauru,11000,world/nr.EXTENSION
+Northern Mariana Islands,58000,world/mp.EXTENSION
+Palau,18000,world/pw.EXTENSION
+American Samoa,55000,world/as.EXTENSION
+Cook Islands,18000,world/ck.EXTENSION
+French Polynesia,281000,world/pf.EXTENSION
+Pitcairn Islands,67,world/pn.EXTENSION
+Niue,2000,world/nu.EXTENSION
+Samoa,198000,world/ws.EXTENSION
+Tokelau,1000,world/tk.EXTENSION
+Tonga,106000,world/to.EXTENSION
+Tuvalu,12000,world/tv.EXTENSION
+Wallis and Futuna Islands,11000,world/wf.EXTENSION
+Belarus,9449000,world/by.EXTENSION
+Bulgaria,6948000,world/bg.EXTENSION
+Czech Republic,10709000,world/cz.EXTENSION
+Hungary,9660000,world/hu.EXTENSION
+Poland,37847000,world/pl.EXTENSION
+Moldova,4034000,world/md.EXTENSION
+Romania,19238000,world/ro.EXTENSION
+Russian Federation,145934000,world/ru.EXTENSION
+Slovakia,5460000,world/sk.EXTENSION
+Ukraine,43734000,world/ua.EXTENSION
+Denmark,5792000,world/dk.EXTENSION
+Estonia,1327000,world/ee.EXTENSION
+Faroe Islands,49000,world/fo.EXTENSION
+Finland,5541000,world/fi.EXTENSION
+Åland Islands,29884,world/ax.EXTENSION
+Iceland,341000,world/is.EXTENSION
+Ireland,4938000,world/ie.EXTENSION
+Isle of Man,85000,world/im.EXTENSION
+Latvia,1886000,world/lv.EXTENSION
+Lithuania,2722000,world/lt.EXTENSION
+Norway,5421000,world/no.EXTENSION
+Sweden,10099000,world/se.EXTENSION
+United Kingdom,67886000,world/gb.EXTENSION
+England,56286961,world/gb-eng.EXTENSION
+Wales,3152879,world/gb-wls.EXTENSION
+Scotland,5463300,world/gb-sct.EXTENSION
+Northern Ireland,1893700,world/gb.EXTENSION
+Albania,2878000,world/al.EXTENSION
+Andorra,77000,world/ad.EXTENSION
+Bosnia and Herzegovina,3281000,world/ba.EXTENSION
+Croatia,4105000,world/hr.EXTENSION
+Gibraltar,34000,world/gi.EXTENSION
+Greece,10423000,world/gr.EXTENSION
+Vatican,1000,world/va.EXTENSION
+Italy,60462000,world/it.EXTENSION
+Malta,442000,world/mt.EXTENSION
+Montenegro,628000,world/me.EXTENSION
+North Macedonia,2083000,world/mk.EXTENSION
+Portugal,10197000,world/pt.EXTENSION
+Kosovo,1873160,world/xk.EXTENSION
+San Marino,34000,world/sm.EXTENSION
+Serbia,8737000,world/rs.EXTENSION
+Slovenia,2079000,world/si.EXTENSION
+Spain,46755000,world/es.EXTENSION
+Austria,9006000,world/at.EXTENSION
+Belgium,11590000,world/be.EXTENSION
+France,65274000,world/fr.EXTENSION
+Germany,83784000,world/de.EXTENSION
+Liechtenstein,38000,world/li.EXTENSION
+Luxembourg,626000,world/lu.EXTENSION
+Monaco,39000,world/mc.EXTENSION
+Netherlands,17135000,world/nl.EXTENSION
+Switzerland,8655000,world/ch.EXTENSION
+Jersey,107800,world/je.EXTENSION
+Guernsey,62792,world/gg.EXTENSION
+Bermuda,62000,world/bm.EXTENSION
+Canada,37742000,world/ca.EXTENSION
+Greenland,57000,world/gl.EXTENSION
+Saint Pierre and Miquelon,6000,world/fr.EXTENSION
+United States of America,331003000,world/us.EXTENSION
+Bonaire,20104,world/Flag_of_Bonaire.EXTENSION
+Sint Eustatius,3138,world/Flag_of_Sint_Eustatius.EXTENSION
+Saba,1915,world/Flag_of_Saba.EXTENSION

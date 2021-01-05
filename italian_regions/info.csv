@@ -1,21 +1,21 @@
-Name;Capital;Area;Population;Flag path
-Abruzzo;L'Aquila;10763;1311580;italian_regions/Flag_of_Abruzzo.EXTENSION
-Aosta Valley;Aosta;3263;125666;italian_regions/Flag_of_Valle_d'Aosta.EXTENSION
-Apulia;Bari;19358;4029053;italian_regions/Flag_of_Apulia.EXTENSION
-Basilicata;Potenza;9995;562869;italian_regions/Flag_of_Basilicata.EXTENSION
-Calabria;Catanzaro;15080;1947131;italian_regions/Flag_of_Calabria.EXTENSION
-Campania;Naples;13590;5801692;italian_regions/Flag_of_Campania.EXTENSION
-Emilia-Romagna;Bologna;22446;4459477;italian_regions/Flag_of_Emilia-Romagna.EXTENSION
-Friuli-Venezia Giulia;Trieste;7858;1215220;italian_regions/Flag_of_Friuli-Venezia_Giulia.EXTENSION
-Lazio;Rome;17236;5879082;italian_regions/Flag_of_Lazio.EXTENSION
-Liguria;Genoa;5422;1550640;italian_regions/Flag_of_Liguria.EXTENSION
-Lombardy;Milan;23844;10060574;italian_regions/Flag_of_Lombardy.EXTENSION
-Marche;Ancona;9366;1525271;italian_regions/Flag_of_Marche.EXTENSION
-Molise;Campobasso;4438;305617;italian_regions/Flag_of_Molise.EXTENSION
-Piedmont;Turin;25402;4356406;italian_regions/Flag_of_Piedmont.EXTENSION
-Sardinia;Cagliari;24090;1639591;italian_regions/Flag_of_Sardinia.EXTENSION
-Sicily;Palermo;25711;4999891;italian_regions/Flag_of_Sicilia.EXTENSION
-Tuscany;Florence;22993;3729641;italian_regions/Flag_of_Tuscany.EXTENSION
-Trentino-Alto Adige/Südtirol;Trento;13607;1072276;italian_regions/Flag_of_Trentino-South_Tyrol.EXTENSION
-Umbria;Perugia;8456;882015;italian_regions/Flag_of_Umbria.EXTENSION
-Veneto;Venice;18399;4905854;italian_regions/Flag_of_Veneto.EXTENSION
+Name,Capital,Area,Population,Flag path
+Abruzzo,L'Aquila,10763,1311580,italian_regions/Flag_of_Abruzzo.EXTENSION
+Aosta Valley,Aosta,3263,125666,italian_regions/Flag_of_Valle_d'Aosta.EXTENSION
+Apulia,Bari,19358,4029053,italian_regions/Flag_of_Apulia.EXTENSION
+Basilicata,Potenza,9995,562869,italian_regions/Flag_of_Basilicata.EXTENSION
+Calabria,Catanzaro,15080,1947131,italian_regions/Flag_of_Calabria.EXTENSION
+Campania,Naples,13590,5801692,italian_regions/Flag_of_Campania.EXTENSION
+Emilia-Romagna,Bologna,22446,4459477,italian_regions/Flag_of_Emilia-Romagna.EXTENSION
+Friuli-Venezia Giulia,Trieste,7858,1215220,italian_regions/Flag_of_Friuli-Venezia_Giulia.EXTENSION
+Lazio,Rome,17236,5879082,italian_regions/Flag_of_Lazio.EXTENSION
+Liguria,Genoa,5422,1550640,italian_regions/Flag_of_Liguria.EXTENSION
+Lombardy,Milan,23844,10060574,italian_regions/Flag_of_Lombardy.EXTENSION
+Marche,Ancona,9366,1525271,italian_regions/Flag_of_Marche.EXTENSION
+Molise,Campobasso,4438,305617,italian_regions/Flag_of_Molise.EXTENSION
+Piedmont,Turin,25402,4356406,italian_regions/Flag_of_Piedmont.EXTENSION
+Sardinia,Cagliari,24090,1639591,italian_regions/Flag_of_Sardinia.EXTENSION
+Sicily,Palermo,25711,4999891,italian_regions/Flag_of_Sicilia.EXTENSION
+Tuscany,Florence,22993,3729641,italian_regions/Flag_of_Tuscany.EXTENSION
+Trentino-Alto Adige/Südtirol,Trento,13607,1072276,italian_regions/Flag_of_Trentino-South_Tyrol.EXTENSION
+Umbria,Perugia,8456,882015,italian_regions/Flag_of_Umbria.EXTENSION
+Veneto,Venice,18399,4905854,italian_regions/Flag_of_Veneto.EXTENSION
