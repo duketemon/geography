@@ -1,5 +1,5 @@
-## World of Flags
-Dataset of flags in different formats (PNG, SVG)
+## Geography
+Repository of global and local flags and datasets with info about countries, areas, territories, regions, etc.
 
 ## Repository structure
 ### ./world
